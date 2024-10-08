@@ -1,7 +1,3 @@
-Here's the updated `README.md` file with the profile picture changing feature removed:
-
----
-
 # To-Do List App
 
 This is a **Flutter-based To-Do List App** where users can manage their daily tasks efficiently. The app allows users to create, edit, delete, and mark tasks as complete. The app also includes a static profile picture for the user within the interface.
